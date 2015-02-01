@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyStore</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="progress_dialog_message">Please wait&#8230;</string>
+    <string name="no_data">--</string>
+
+    <!-- Menu -->
+    <string name="action_list_products">List Products</string>
+
+    <!-- Get Product list -->
+    <string name="progress_dialog_loading_products">Accessing product list</string>
+
+    <!-- Buy product -->
+    <string name="dialog_purchase_title">Purchase confirmation</string>
+
+    <!-- Get  Purchases menu-->
+    <string name="menu_get_purchases">Get purchases</string>
+
+    <!-- Test -->
+    <string name="menu_test_purchase">Successful purchase</string>
+    <string name="menu_test_consume">Test consume</string>
+    <string name="menu_test_cancel">Purchase canceled</string>
+    <string name="menu_test_refunded">Refunded purchase</string>
+    <string name="menu_test_unavailable">Unavailable product</string>
+
+
+</resources>

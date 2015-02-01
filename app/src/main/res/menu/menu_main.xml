@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+    <item
+        android:id="@+id/action_list_products"
+        android:title="@string/action_list_products"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_get_purchases"
+        android:title="@string/menu_get_purchases" />
+    <item
+        android:id="@+id/menu_test_consume"
+        android:title="@string/menu_test_consume" />
+    <item
+        android:id="@+id/menu_test_purchase"
+        android:title="@string/menu_test_purchase" />
+</menu>
